@@ -1,5 +1,10 @@
 # Latex Doc template
-A latex doc formatted according to the scientific publication requirement.
+
+[![codecov](https://codecov.io/gh/LaGuer/doc-latex/branch/master/graph/badge.svg)](https://codecov.io/gh/LaGuer/doc-latex)
+
+[![Travis](https://travis-ci.org/LaGuer/doc-latex.svg?branch=master)](https://travis-ci.org/LaGuer/doc-latex)
+
+A latex doc formatted according to the scientific publication requirements.
 
 ### Demos:
 
